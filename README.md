@@ -1,4 +1,4 @@
-# Python-Patterns
+# 🎷 Python-Patterns
 GoF Patterns (usefull list of examples)
 
 https://refactoring.guru/ru/design-patterns/catalog 
